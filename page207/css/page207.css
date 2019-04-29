@@ -1,0 +1,17 @@
+body {
+	background-color: #9DECEA  ;
+}
+
+input {
+	width: 100%;
+	border: 2px solid red;
+	border-radius: 4px;
+	margin: 35px;
+}
+
+p {
+  font-family: "Times New Roman", Times, serif;
+}
+
+h1 {
+	font-size: 15px;
